@@ -1,0 +1,14 @@
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\obj\Debug\TriviaFy.csproj.CoreCompileInputs.cache
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\TriviaFy.exe.config
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\TriviaFy.exe
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\TriviaFy.pdb
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\obj\Debug\TriviaFy.csproj.CopyComplete
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\obj\Debug\TriviaFy.exe
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\obj\Debug\TriviaFy.pdb
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lupit\source\repos\TriviaFyApiDemo\TriviaFy\obj\Debug\TriviaFy.csprojAssemblyReference.cache
